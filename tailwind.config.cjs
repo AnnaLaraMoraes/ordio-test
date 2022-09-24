@@ -10,6 +10,7 @@ module.exports = {
         "blue-200": "#7C8287",
         "blue-50": "#F3F4F8",
         "blue-80": "#C8CDD0",
+        "red-300": "#EA4436",
       },
     },
   },

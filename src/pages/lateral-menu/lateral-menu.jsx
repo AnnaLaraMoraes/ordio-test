@@ -41,7 +41,7 @@ export const LateralMenu = () => {
       <div
         class={`${
           showMenu && "hidden"
-        } md:flex flex-col justify-between p-4 bg-white absolute md:relative z-40 h-full`}
+        } md:flex flex-col justify-between p-4 bg-white fixed md:relative z-40 h-full md:h-auto`}
       >
         <div class="flex flex-col gap-y-4">
           <div class="flex flex-col gap-y-4 pl-2 mt-4 md:mt-0">
